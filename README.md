@@ -1,2 +1,2 @@
-# loser
-for cpsc 131 and i am a loser
+# welcome to fight club
+for cpsc 131 
